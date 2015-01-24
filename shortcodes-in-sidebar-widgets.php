@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Shortcodes in Sidebar
-Plugin URI: http://pankajanupam.in/wordpress-plugins/
+Plugin URI: http://pankajanupam.com/wordpress-plugins/
 Description: Shortcodes in Sidebar allows shortcodes to execute in sidebars.
-Version: 1.0
-Author: Pankaj Anupam
-Author URI: http://pankajanupam.in
+Version: 2.0
+Author: BigBrother
+Author URI: http://pankajanupam.com
 /*  Copyright 2011 PANKAJ ANUPAM (email : info@pankajanupam.in)
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
